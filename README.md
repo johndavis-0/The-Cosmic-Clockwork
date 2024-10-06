@@ -1,7 +1,7 @@
 # Smorrery: a simple orrery app
 
 ## Demo
-(https://drive.google.com/file/d/1n4XBMjihIupCVz_MHQmb5AzGiEtHELOf/view?usp=sharing)
+https://drive.google.com/file/d/15c58Jsr37CQSXP2BF_kJNtqWEjpaxjv0/view?usp=drive_link
 
 ## Description
 
